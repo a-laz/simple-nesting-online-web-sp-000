@@ -108,7 +108,7 @@ end
 def adding_to_dennis
 	programmer_hash = 
  		{
-        :grace_hopper => {
+        :hopper => {
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
         },

@@ -122,4 +122,5 @@ def adding_to_dennis
         }
      }
 	hopper = hopper[:grace_hopper][:languages]
+	hopper
 end
